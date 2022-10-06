@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="icon" type="image/png" href="book.png">
+        <title>My Reading List</title>
+        <meta charset="uft-8">
+    </head>
+    <body>
+        <header>
+            <h1>My Reading List</h1>
+        </header>
+        <section>
+            <ul>
+                <li>The Power of Now <small>by Eckhart Tolle</small></li>
+                <li>48 Laws of Power <small>by Robert Greene</small></li>
+                <li>Rich dad, Poor dad <small>by Robert Kiyosaki</small></li>
+                <li>Dune <small>by Frank Herbert</small>:
+                    <ul>
+                        <li>Dune (1965)</li>
+                        <li>Dune Messiah (1969)</li>
+                        <li>Children of Dune (1976)</li>
+                        <li>God Emperor of Dune (1981)</li>
+                        <li>Heretics of Dune (1984)</li>
+                        <li>Chapterhouse: Dune (1985)</li>
+                    </ul>
+                </li>
+                <li>Can't Hurt me <small>by David Goggins</small></li>
+                <li>Atomic Habits <small>by James Clear</small></li>
+                <li>The Art of Thinking Clearly <small>by Rolf Dobelli</small></li>
+                <li>Unscripted <small>by M.J. Demarco</small></li>
+                <li>Vagabond <small>by takehiko Inoue</small></li>
+                <li>Deep Work <small>by Cal Newport</small></li>
+                <li>Hyperfocus <small>by Chris Bailey</small></li>
+                <li>Men without Women <small>by Murakami</small></li>
+                <li>Ikigai <small>by Hector Garcia</small></li>
+                <li>Berserk <small>by Kentaro Miura</small></li>
+                <li>The Psychology of Money <small>by Morgan Housel</small></li>
+                <li>Everything is F'ed <small>by Mark Manson</small></li>
+                <li>The Four Hour Work Week <small>by Tim Ferris</small></li>
+                <li>The Millionare Fastlane <small>by M.J Demarco</small></li>
+            </ul>
+        </section>
+    </body>
+</html>
